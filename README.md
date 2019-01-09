@@ -1,10 +1,12 @@
 # portfolio2
 
+Computer_3.java & Layout_window2.java
+-------------------------------------
 Computer_3.java is a computer guessing game
 where the computer does the guessing.
 Layout_window2.java is a gui which opens
-a url based on the fruit button clicked
-FLOW CHARTS:
+a url based on the fruit button clicked.\n
+FLOW CHARTS:\n
 https://drive.google.com/drive/folders/1IIoInIYLhOPK0NUYFWP3zj5duFjHOZ9v?usp=sharing
 
 Lottery_2.java
